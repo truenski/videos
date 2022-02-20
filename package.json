@@ -1,0 +1,16 @@
+{
+  
+  "name": "videos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start_client": "npm start —prefix NomeDaPasta",
+    "start_node": "node index.js"   },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
+}
